@@ -7,4 +7,4 @@ This is an update to the original Ender 3 Pro/V2 conversion to a Voron SwitchWir
 3.  Several additional options such dual bowden for multicolor printing, allowing different electronics
 4.  Some assembly and start-up guides
 
-The improvements are from DaRk_dOg who has added improved upon the original design and, most improtantly, added an enclosure
+The improvements are from DaRk_dOg who has improved upon the original design and, most improtantly, added an enclosure
